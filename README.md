@@ -13,5 +13,6 @@ How many sets can you find before time runs out?
 Play the game here: http://madwomb.com/HTML5/Beyeler/
 
 **SCREENSHOT:**
-![[(http://madwomb.com/HTML5/Beyeler/)](https://github.com/Darmatage/FableVision_Beyeler/blob/main/Beyeler1.png)
-
+<a href="http://madwomb.com/HTML5/Beyeler/)" target=new>
+![[screenshot](https://github.com/Darmatage/FableVision_Beyeler/blob/main/Beyeler1.png)
+</a>
